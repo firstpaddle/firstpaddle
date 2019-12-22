@@ -2549,7 +2549,87 @@ span.stButton_gradient,
 
 /* added ones */
 
+/* navbar */
+.logo {
+  height: 50px;
+  width: auto; 
+}
+
+/* Medium devices (landscape tablets, 768px and up) */
+@media only screen and (min-width: 768px) {
+  .logo {
+    height: 65px;
+  }
+} 
+
+
 /* Portfolio details */
 .divider {
   height: 60px;
 }
+
+
+/* About Us */
+.logoCircle {
+  margin-bottom: 20px;
+}
+
+.innerContainer {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.parentGrid {
+  margin-top: 80px;
+  margin-bottom: 80px;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(90px, 1fr));
+  grid-row-gap: 2rem;
+}
+
+.childGrid {
+  height: 80px;
+  width: 80px;
+}
+
+.techStackImg {
+  width: 80%;
+  display: block;
+  margin: 0 auto;
+}
+
+.techStackImgSp1 {
+  width: 76%;
+}
+
+.toolName {
+  font-size: 18px;
+  text-align: center;
+  margin-top: 0.6em;
+  display: none;
+}
+
+@media only screen and (min-width: 768px) {
+  .parentGrid {
+    grid-template-columns: repeat(auto-fit, minmax(145px, 1fr));
+    grid-row-gap: 3rem;
+  }
+  .childGrid {
+    height: 130px;
+    width: 130px;
+  }
+  .toolName {
+    display: block;
+  }
+} 
+
+@media only screen and (min-width: 992px) {
+  .parentGrid {
+    grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+    grid-row-gap: 4rem;
+  }
+  .childGrid {
+    height: 160px;
+    width: 160px;
+  }
+} 
