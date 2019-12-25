@@ -1,7 +1,8 @@
 User-agent: *
-allow:
 Disallow: /cgi-bin/
 Disallow: /shortcodes.html/
 Disallow: /404.html/
-Disallow: /sitemap.xml/
+Disallow:/firstpaddle_S_p.ico/
+Disallow:/sendmail.php/
 Disallow: /contact2.html/
+allow:/sitemap.xml/
