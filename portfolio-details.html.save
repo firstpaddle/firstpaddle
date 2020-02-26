@@ -128,8 +128,8 @@
           </div>
           <div class="col-sm-6">
             <div class="project-name overflow">
-              <h2 class="bold"><a href="http://ezone.firstpaddle.com">
-               Ezone</a>
+              <h2 class="bold"><a href="ezone.firstpaddle.com">
+                Engineering and Education Zone(Ezone)</a>
               </h2>
               <ul class="nav navbar-nav navbar-default">
                 <li>
@@ -183,7 +183,7 @@
             </div>
             <div class="live-preview">
               <a
-                href="http://ezone.firstpaddle.com/"
+                href="https://ezone.firstpaddle.com/"
                 class="btn btn-common uppercase"
                 >Live preview</a
               >
@@ -204,7 +204,7 @@
           </div>
           <div class="col-sm-6">
             <div class="project-name overflow">
-              <h2 class="bold"><a href="https://samriddhi.firstpaddle.com">Samriddhi Resort</a></h2>
+              <h2 class="bold"><a href="https://samriddhi.firstpaddle.com">Samriddhi Resort</h2>
               <ul class="nav navbar-nav navbar-default">
                 <li>
                   <a href="#"><i class="fa fa-clock-o"></i>October, 2019</a>
@@ -265,7 +265,7 @@
             </div>
             <div class="live-preview">
               <a
-                href="https://samriddhi.firstpaddle.com/"
+                href="http://samriddhi.firstpaddle.com/"
                 class="btn btn-common uppercase"
                 >Live preview</a
               >
@@ -285,7 +285,7 @@
           </div>
           <div class="col-sm-6">
             <div class="project-name overflow">
-              <h2 class="bold"><a href="https://hamropadhai.com/">Hamropadhai</a></h2>
+              <h2 class="bold"><a href="https://hamropadhai.com>Hamropadhai</h2>
               <ul class="nav navbar-nav navbar-default">
                 <li>
                   <a href="#"><i class="fa fa-clock-o"></i>October, 2019</a>
